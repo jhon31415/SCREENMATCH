@@ -1,3 +1,8 @@
 public class Pelicula {
-    //hola 1
+string nombre;
+int fechaDeLanzamiento;
+int duracionEnMinutos;
+boolean incluidoEnElPlan;
+
+
 }
