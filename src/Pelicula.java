@@ -1,7 +1,11 @@
 public class Pelicula {
-string nombre;
+
+String nombre;
+
 int fechaDeLanzamiento;
+
 int duracionEnMinutos;
+
 boolean incluidoEnElPlan;
 
 
